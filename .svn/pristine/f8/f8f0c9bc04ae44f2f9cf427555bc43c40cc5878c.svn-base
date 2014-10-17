@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1527376497">
+    <data-source source="LOCAL" name="SQL Server - demo@localhost" uuid="cbab841a-4707-44e1-a393-9210879db401">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433;databaseName=demo</jdbc-url>
+      <user-name>sa</user-name>
+      <user-password>dfcedfcbdfc3dfc2dfdfdfc3df92df92df92</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea13/config/jdbc-drivers/sqljdbc4-4.0.2206.100.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
